@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f58cccb-5156-40fb-8a6e-66abec6698e1" name="Changes" comment="calculator Program">
-      <change afterPath="$PROJECT_DIR$/temperature_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compound intrest calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ShashankBhoga"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShashankBhoga&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShashankBhoga/Python-Beginner-Projects.git",
-    "accountId": "8bf87e87-1460-4346-84ee-1ed7718e51c4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShashankBhoga/Python-Beginner-Projects.git&quot;,
+    &quot;accountId&quot;: &quot;8bf87e87-1460-4346-84ee-1ed7718e51c4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36zPcJfYSFR7cM8jSpcwhYMgyUV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,6 +48,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1.Madlibs_game.executor": "Run",
+    "Python.compound intrest calculator.executor": "Run",
     "Python.simple_calculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -56,6 +57,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/shashankbhoga/Python_Beginner_projects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +82,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766006505284</updated>
-      <workItem from="1766006506393" duration="2011000" />
+      <workItem from="1766006506393" duration="6574000" />
+      <workItem from="1766478241327" duration="196000" />
+      <workItem from="1766750798423" duration="687000" />
     </task>
     <task id="LOCAL-00001" summary="input function with a fun game">
       <option name="closed" value="true" />
@@ -106,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766007227589</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="calculator Program">
+      <option name="closed" value="true" />
+      <created>1766008531838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766008531838</updated>
+    </task>
+    <task id="LOCAL-00005" summary="calculator Program">
+      <option name="closed" value="true" />
+      <created>1766008724648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766008724648</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
