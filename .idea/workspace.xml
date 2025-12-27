@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f58cccb-5156-40fb-8a6e-66abec6698e1" name="Changes" comment="calculator Program">
-      <change afterPath="$PROJECT_DIR$/compound intrest calculator.py" afterDir="false" />
+    <list default="true" id="8f58cccb-5156-40fb-8a6e-66abec6698e1" name="Changes" comment="while loops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +66,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +88,7 @@
       <updated>1766006505284</updated>
       <workItem from="1766006506393" duration="6574000" />
       <workItem from="1766478241327" duration="196000" />
-      <workItem from="1766750798423" duration="687000" />
+      <workItem from="1766750798423" duration="1380000" />
     </task>
     <task id="LOCAL-00001" summary="input function with a fun game">
       <option name="closed" value="true" />
@@ -126,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766008724648</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="while loops">
+      <option name="closed" value="true" />
+      <created>1766753981347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766753981347</updated>
+    </task>
+    <task id="LOCAL-00007" summary="while loops">
+      <option name="closed" value="true" />
+      <created>1766754045408</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766754045408</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,10 +155,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="input function with a fun game" />
     <MESSAGE value="calculator Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator Program" />
+    <MESSAGE value="while loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="while loops" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Beginner_projects$1_Madlibs_game.coverage" NAME="1.Madlibs_game Coverage Results" MODIFIED="1766006770511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Beginner_projects$compound_intrest_calculator.coverage" NAME="compound intrest calculator Coverage Results" MODIFIED="1766753939510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Beginner_projects$simple_calculator.coverage" NAME="simple_calculator Coverage Results" MODIFIED="1766007172945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
